@@ -1,2 +1,1 @@
-# VCAR
-# VCAR
+# LOJA VCAR
